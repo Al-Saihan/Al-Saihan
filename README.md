@@ -2,7 +2,7 @@
 
 ### 💻 Computer Science & Engineering Student | 🖥️ Aspiring Developer | 🎯 Problem Solver  
 
-I'm a Computer Science & Engineering student at **Brac University** who loves solving problems and taking on challenges. I enjoy working on **cool projects**, exploring **new technologies**, and constantly pushing my limits! 🚀  
+I'm a Computer Science & Engineering student at **BRAC University** who loves solving problems and taking on challenges. I enjoy working on **cool projects**, exploring **new technologies**, and constantly pushing my limits! 🚀  
 
 ---
 
