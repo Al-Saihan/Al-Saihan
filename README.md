@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Saihan!  
+# 👋 Hey there! I'm Saihan  
 
 ### 💻 Computer Science & Engineering Student | 🖥️ Aspiring Developer | 🎯 Problem Solver  
 
@@ -21,6 +21,14 @@ I'm a Computer Science & Engineering student at **BRAC University** who loves so
 
 ---
 
+## 📈 GitHub Stats:
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=al-saihan&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=al-saihan&layout=compact&theme=dark)
+
+---
+
 ## 📫 Connect with Me:
 - **Gmail:** al.saihan.bafsd.5@gmail.com  
 - **LinkedIn:** [al-saihan](https://www.linkedin.com/in/al-saihan/)  
@@ -28,18 +36,3 @@ I'm a Computer Science & Engineering student at **BRAC University** who loves so
 - **Portfolio:** TBA  
 
 ---
-
-<!--
-**Al-Saihan/Al-Saihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
