@@ -10,7 +10,7 @@ I'm a Computer Science & Engineering student at **BRAC University** who loves so
 - **Languages:** Python, C, JavaScript  
 - **Web Development:** HTML, CSS  
 - **Databases:** MySQL  
-- **Other Tools:** Git, VS Code, Linux, Windows  
+- **Other Tools:** Git, VS Code, Linux, Windows, Jupyter Notebook
 
 ---
 
