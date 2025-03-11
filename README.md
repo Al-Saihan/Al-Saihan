@@ -27,7 +27,7 @@ I'm a Computer Science & Engineering student at **BRAC University** who loves so
 
 ![Al-Saihan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-Saihan&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al-saihan&langs_count=8&theme=radical&show_icons=true&hide_border=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al-saihan&langs_count=8&theme=radical&show_icons=true&hide_border=false)
 
 ---
 
