@@ -23,9 +23,8 @@ I'm a Computer Science & Engineering student at **BRAC University** who loves so
 
 ## 📈 GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=al-saihan&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=al-saihan&layout=compact&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=al-saihan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al-saihan&langs_count=8)
 
 ---
 
