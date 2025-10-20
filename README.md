@@ -37,7 +37,7 @@ I'm a Computer Science & Engineering student at **BRAC University** who loves so
 
 ---
 
-<p align="center">
+<p align="left">
   <a href="[https://github.com/Al-Saihan](https://i.imgflip.com/fxil2.jpg)">
     <img src="https://komarev.com/ghpvc/?username=Al-Saihan&color=blue&style=flat)" />
   </a>
