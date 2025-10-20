@@ -36,6 +36,9 @@ I'm a Computer Science & Engineering student at **BRAC University** who loves so
 - **Portfolio:** TBA  
 
 ---
+Thank you for going through, my- whatever this is! 
+
+*Adds one extra view to the view counter.*
 
 <p align="left">
   <a href="https://i.imgflip.com/fxil2.jpg">
